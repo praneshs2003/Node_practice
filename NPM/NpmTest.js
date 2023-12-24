@@ -1,6 +1,6 @@
 const figlet = require('figlet')
 
-figlet('outlawsforlife',function(err,data){
+figlet('sanjith',function(err,data){
     if(err)
     {
         console.log('Something went wrong')
